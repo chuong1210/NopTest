@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuon\\source\\repos\\AppWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\services\\impl\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\services\\impl\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\responses\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\responses\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\supermarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\supermarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\mapper\\mapperuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\mapper\\mapperuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\controllers\\uercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\controllers\\uercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\request\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\request\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\request\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\request\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|c:\\users\\chuon\\source\\repos\\appweb\\appweb\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5D8FE6-48C1-4A91-9475-B9E6E2B023D3}|AppWeb\\AppWeb.csproj|solutionrelative:appweb\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:223745039:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperUser.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Mapper\\MapperUser.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Mapper\\MapperUser.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Mapper\\MapperUser.cs",
+              "RelativeToolTip": "AppWeb\\Mapper\\MapperUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:30:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Services\\Impl\\UserService.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Services\\Impl\\UserService.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Services\\Impl\\UserService.cs",
+              "RelativeToolTip": "AppWeb\\Services\\Impl\\UserService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:25:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Responses\\Result.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Responses\\Result.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Responses\\Result.cs",
+              "RelativeToolTip": "AppWeb\\Responses\\Result.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:13:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupermarketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\SupermarketDbContext.cs",
+              "RelativeDocumentMoniker": "AppWeb\\SupermarketDbContext.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\SupermarketDbContext.cs",
+              "RelativeToolTip": "AppWeb\\SupermarketDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:18:48.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserservice.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Services\\IUserservice.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Services\\IUserservice.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Services\\IUserservice.cs",
+              "RelativeToolTip": "AppWeb\\Services\\IUserservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:09:43.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UerController.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Controllers\\UerController.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Controllers\\UerController.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Controllers\\UerController.cs",
+              "RelativeToolTip": "AppWeb\\Controllers\\UerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:24:44.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Model\\User.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Model\\User.cs",
+              "RelativeToolTip": "AppWeb\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:08:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "AppWeb\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\UserConfiguration.cs",
+              "RelativeToolTip": "AppWeb\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:19:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Program.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Program.cs",
+              "RelativeToolTip": "AppWeb\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:16:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "AppWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\appsettings.json",
+              "RelativeToolTip": "AppWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T08:16:41.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Request\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Request\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Request\\UpdateUserRequest.cs",
+              "RelativeToolTip": "AppWeb\\Request\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:15:04.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Request\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "AppWeb\\Request\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\Request\\CreateUserRequest.cs",
+              "RelativeToolTip": "AppWeb\\Request\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:14:55.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "AppWeb\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\chuon\\source\\repos\\AppWeb\\AppWeb\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "AppWeb\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:07:44.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
